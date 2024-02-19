@@ -1,0 +1,19 @@
+{
+	"num_cards_to_play" : 16,
+	"cards_per_row" : 4,
+	"cards_per_column" : 4,
+	"x0" : 10,
+	"y0" : 10,
+	"window_size": [410, 410],
+	"card_rect" : [100, 100],
+	"card_width" : 90,
+	"card_height" : 90,
+	"scores_rect" : [[55,80], [350,350]],
+	"fontsize" : 15,
+	"start_button" : [[150,270], [260,315]],
+	"replay_button" : [[25,370], [130,410]],
+	"help_button" : [[150,370], [260,410]],
+	"scores_button" : [[280,370], [385,410]],
+	"back_button" : [[150,370], [260,410]],
+	"menu_button" : [[150,370], [260,410]]
+}
